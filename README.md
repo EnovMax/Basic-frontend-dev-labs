@@ -37,20 +37,19 @@
 
 <p>Ход выполнения  
 <p> <b>Задание 1.</b> Разработать макет формы регистрации пользователя, представленный ниже на рисунке 1. Сохранить макет в файл lab2_form.html. Стилизация макета не требуется. Код должен быть валидирован под HTML5.
-<<<<<<< Updated upstream
-<p align="center"><img src=../img/111.png/
-=======
-<p align="center"><img src=../lab2/fbsLabs2/img/111.PNG>
->>>>>>> Stashed changes
+
+
+<p align="center"><img src=../Lab2/bfsLabs2/img/111.png>
+
 <p align="center">Рисунок 1 - Форма регистрации пользователя
   
 В результате выполнения задания была реализована страница, скриншот которой находится на ричунке 2.  
-<p align="center"><img src=..img/222.png></p>
+<p align="center"><img src=../Lab2/bfsLabs2/img/222.png
 <p align="center">Рисунок 2 - Скриншот результатат работы lab2_form.html  
   
 Валидация прошла с относительным успехом. В основном ошибки вызваны требованиями использовасть CSS стили, но третья ошибка непонятна, в следтивии того, что в других лейблах с атрибутом for все в порядке, и валидатор на них не ругается, хотя все реализовано так же. Скриншот валидации приведен на рисунке 3.  
 
-<p align="center"><img src=../lab2/fbsLabs2/img/img3.jpg>
+<p align="center"><img src=../Lab2/bfsLabs2/img/333.png
 <p align="center">Рисунок 3 - Скриншот пройденой валидации файла lab2_form.html  
     
 Листинг файла lab2_form.html приведен в приложении A.  
@@ -119,33 +118,29 @@
   
 ---
 <p> <b>Задание 3.</b> На основании изученного материала постройте макет html страницы в зависимости от варианта. Номер варианта получается путем сложения всех цифр номера зачетной книжки с последующим взятием остатка от деления на 7 и прибавлением к результату единицы.  
-<p align="center"><img src=../lab2/fbsLabs2/img/img4.jpg>
+<p align="center"><img src=../Lab2/bfsLabs2/img/444.png
 <p align="center">Рисунок 4 - Верхняя часть страницы
-<p align="center"><img src=../lab2/fbsLabs2/img/img5.jpg>
+<p align="center"><img src=../Lab2/bfsLabs2/img/555.png
 <p align="center">Рисунок 5 - Нижняя часть страницы</p>
-<p align="center"><img src=../lab2/fbsLabs2/img/img6.jpg>
-<p align="center">Рисунок 6 - Задание для нечетнго варианта</p>  
+<p align="center"><img src=../Lab2/bfsLabs2/img/666.png
+<p align="center">Рисунок 6 - Задание для четнoго варианта</p>  
 <p align=center>5  
 
 ---
 
-Задание было успешно выполнено. Валидация файла index.html прошла успешно - ошибка неиспользования css стилей, скриншот приведен на рисунке 7. На рисунках с 8 по 11 приведены скриншоты конечной страницы. Листинг файла index.html приведен в приложении Б.
+Задание было успешно выполнено. На рисунках с 8 по 11 приведены скриншоты конечной страницы. Листинг файла index.html приведен в приложении Б.
 
-<p align="center"><img src=../lab2/fbsLabs2/img/img7.jpg>
-<p align="center">Рисунок 7 - Задание для нечетнго варианта</p>
-<p align="center"><img src=../lab2/fbsLabs2/img/img8.jpg>
+
+<p align="center">Рисунок 7 - Задание для четнoго варианта</p>
+<p align="center"><img src=../Lab2/bfsLabs2/img/777.png
 <p align="center">Рисунок 8</p>  
 <p align=center>6  
 
 ---
-<p align="center"><img src=../lab2/fbsLabs2/img/img9.jpg>
+<p align="center"><img src=../Lab2/bfsLabs2/img/888.png
 <p align="center">Рисунок 9</p>
-<p align="center"><img src=../lab2/fbsLabs2/img/img10.jpg>
-<p align="center">Рисунок 10</p>
-<p align="center"><img src=../lab2/fbsLabs2/img/img11.jpg>
-<p align="center">Рисунок 11</p>
-<p align=center>7  
-  
+<p align="center"><img src=../Lab2/bfsLabs2/img/999.png
+ 
   ---
 <p align = center><b>Приложение А</b>
 <p align = center>(обязательное) 
